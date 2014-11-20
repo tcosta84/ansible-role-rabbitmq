@@ -1,0 +1,4 @@
+---
+
+rabbitmq_management_plugin: true
+rabbitmq_remove_guest_user: false
