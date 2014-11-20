@@ -1,5 +1,5 @@
-Role Name
-=========
+Ansible Role: RabbitMQ
+======================
 
 Installs minimal RabbitMQ 3.3.5 on CentOS 6.5
 
